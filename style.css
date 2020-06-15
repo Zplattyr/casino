@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  min-width: 960px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  color: #222222;
+  background-color: #f2f4f6;
+  background-image: url("img/casino.jpg");
+  background-repeat: no-repeat;
+  background-position: top center;
+  padding: 0;
+  overflow: hidden;
+  position: relative;
+  border-radius: 10px;
+}
+html{padding: 0;display: table-cell; и vertical-align: middle;}
+.container{width:850px;background-color: white;display: flex;align-items: center;
+margin: auto auto;height: 400px;display: block; border-radius: 10px;margin-top: 200px}
+h1{color: red;padding-top: 30px}
+.text,p{text-align: center;display: block;}
+.ssylka{text-align: center;width: 300px;height: 100px;
+margin: 40px auto 0 auto;color: white;font-size: 50px;display: block;box-shadow: 2px 2px 5px 0 black;display: flex;
+justify-content: center; align-items: center;border-radius: 10px;background-color: Red;
+text-decoration: none;font-weight: bold;font-style: italic;}
+a:hover{background-color:FireBrick;}
+a:active{background-color:DarkRed;transform: translateY(2px);}
