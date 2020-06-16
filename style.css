@@ -13,10 +13,12 @@ body {
   overflow: hidden;
   position: relative;
   border-radius: 10px;
+  background-size: cover;
+  height: 100%;
 }
 html{padding: 0;display: table-cell; и vertical-align: middle;}
 .container{width:850px;background-color: white;display: flex;align-items: center;
-margin: auto auto;height: 400px;display: block; border-radius: 10px;margin-top: 200px}
+margin: auto auto;height: 400px;display: block; border-radius: 10px;margin-top: 11%}
 h1{color: red;padding-top: 30px}
 .text,p{text-align: center;display: block;}
 .ssylka{text-align: center;width: 300px;height: 100px;
